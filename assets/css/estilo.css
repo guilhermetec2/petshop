@@ -1,0 +1,111 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.container-logo{
+    margin-left: 1rem;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.logo{
+    font-size: 120px;
+    margin-top: calc(120px - 50%);
+}
+
+.container-logo a{
+    text-decoration: none;
+}
+
+.slide img{
+    width: 100vw;
+    margin-bottom: 1rem;
+}
+
+.mySlides {
+    display: none;
+}
+
+.top-bar a{
+    font-weight: bold;
+}
+
+
+.estrelas{
+    color: #f9cf48;
+}
+
+.borda-abaixo{
+    border-bottom: 2px solid #e8e8e6;
+}
+
+.margem-abaixo{
+    margin-bottom: 1rem;
+}
+
+.produtos img{
+    height: 180px;
+    width: auto;
+}
+
+.newsletter{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.newsletter h4{
+    color: #ffffff;
+}
+
+.menu-footer{
+    color: #006caa;
+    padding-bottom: 16px;
+}
+
+.menu-footer h5{
+    border-bottom: 1px solid #006caa;
+    color: #006caa;
+}
+
+.menu-footer h6{
+    color: #006caa;
+    font-weight: bold;
+}
+.menu-footer ul{
+    font-size: 14px;
+    list-style: none;
+}
+
+.menu-footer a{
+    color: #006caa !important;
+}
+
+.menu-footer .content{
+    padding: 0 !important;
+}
+
+.menu-footer .content .button{
+    background-color: #fff;
+}
+.menu-footer ul .social{
+    font-size: 26px;
+}
+
+.footer p{
+    color: #fff;
+    margin-top: 0.5rem;
+}
+
+.btn-addproduto,
+.btn-delproduto,
+.btn-addfornecedor{
+    position: relative;
+    margin-top: 1.2rem;
+}
+
+.container-total{
+    margin-top: 50px;
+}
